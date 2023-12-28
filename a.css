@@ -1,0 +1,40 @@
+.xyz{
+    background: linear-gradient(315deg, #f0c6e9, #d9dadb);
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}
+
+.xyz .abc{
+    flex: 1 1 42rem;
+   
+    
+}
+
+.xyz .image{
+    flex: 1 1 42rem;
+}
+
+.xyz .image img{
+    width: 100%;
+}
+
+.xyz .abc h3{
+    color: var(--pink);
+    font-size: 2.5rem;
+   padding-bottom: .5rem;
+}
+
+.xyz .abc h1{
+    color: var(--black);
+    font-size: 4rem;
+}   
+
+.xyz .pqr{
+    
+    align-items: center;
+    
+    
+   }
+   

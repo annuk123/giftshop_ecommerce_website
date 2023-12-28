@@ -1,0 +1,14 @@
+Name Gr.pay Tax ded. Net pay Per. tax
+Maggie                    50000.00  0.00      0.00      0.00 
+Akria                     40000.00  3600.00   32400.00  9.00 
+Richard                   48000.00  5184.00   38016.00  10.80
+Jamie                     35000.00  2520.00   28980.00  7.20 
+
+Summary
+========
+
+Total gross salary           : 184304.00
+Total tax deducted           : 0.00     
+Total net pay                : 99396.00 
+Person getting highest pay   : Richard                  
+Number of persons processed  : 4
